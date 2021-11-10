@@ -1,0 +1,80 @@
+site_name: Resolução 47/2021 - CONSUP/IFRN de 06/out/2021
+site_description: >
+  Aprova diretrizes pedagógicas para a volta gradual à presencialidade, por meio da simultaneidade
+  entre o ensino remoto emergencial e a progressiva ampliação do ensino presencial, denominado
+  ensino misto provisório, e dá outras providências no âmbito do Instituto Federal de Educação, Ciência
+  e Tecnologia do Rio Grande do Norte.
+
+theme:
+  name: material
+  palette:
+    primary: green
+
+nav:
+  - Artigos:
+    - art-1.md
+    - art-2.md
+    - art-3.md
+    - art-4.md
+    - art-5.md
+    - art-6.md
+    - art-7.md
+    - art-8.md
+    - art-9.md
+    - art-10.md
+    - art-11.md
+    - art-12.md
+    - art-13.md
+    - art-14.md
+    - art-15.md
+    - art-16.md
+    - art-17.md
+    - art-18.md
+    - art-19.md
+    - art-20.md
+    - art-21.md
+    - art-22.md
+    - art-23.md
+    - art-24.md
+    - art-25.md
+    - art-26.md
+    - art-27.md
+    - art-28.md
+    - art-29.md
+    - art-30.md
+    - art-31.md
+    - art-32.md
+    - art-33.md
+    - art-34.md
+    - art-35.md
+    - art-36.md
+    - art-37.md
+    - art-38.md
+    - art-39.md
+    - art-40.md
+    - art-41.md
+    - art-42.md
+    - art-43.md
+    - art-44.md
+    - art-45.md
+  
+  - Capítulos:
+
+      - capitulo-1.md 
+      - capitulo-2.md 
+      - capitulo-3.md 
+      - capitulo-4.md 
+      - capitulo-5.md 
+      - capitulo-6.md 
+      - capitulo-7.md 
+      - capitulo-8.md 
+      - capitulo-9.md 
+      - capitulo-10.md 
+      - capitulo-11.md 
+      - capitulo-12.md 
+      - capitulo-13.md 
+      - capitulo-14.md 
+      - capitulo-15.md 
+      - capitulo-16.md 
+      - capitulo-17.md 
+      - capitulo-18.md
